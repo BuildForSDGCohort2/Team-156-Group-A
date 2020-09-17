@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "543423112297",
+    "firebase_url": "https://earthcare-64f00.firebaseio.com",
+    "project_id": "earthcare-64f00",
+    "storage_bucket": "earthcare-64f00.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:543423112297:android:2b7e080864b5eb8fbf2ef8",
+        "android_client_info": {
+          "package_name": "com.example.earthcare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "543423112297-a7a1ht7p23htj1727g3mq0il6q5b875k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.earthcare",
+            "certificate_hash": "a510b0ca7705a3f6b6e9d7d134fea225cf86b37c"
+          }
+        },
+        {
+          "client_id": "543423112297-d2ajbu3rote95jmcc4r3usqj0ov2mras.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmJ9rCTsuUGimGn4wg425nlaLrjWGCQKg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "543423112297-d2ajbu3rote95jmcc4r3usqj0ov2mras.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
